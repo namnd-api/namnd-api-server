@@ -1,0 +1,23 @@
+{
+  "name": "namnd-api-server",
+  "version": "1.0.0",
+  "description": "Testimplementation av en server som tillhandahåller uppgifter enligt specifikationen för Nämnd API ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/namnd-api/namnd-api-server.git"
+  },
+  "author": "Jonas Bergenudd",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/namnd-api/namnd-api-server/issues"
+  },
+  "homepage": "https://github.com/namnd-api/namnd-api-server#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
